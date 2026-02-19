@@ -53,3 +53,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Build directory, including auto-generated Makefile, binaries, etc
+build/
